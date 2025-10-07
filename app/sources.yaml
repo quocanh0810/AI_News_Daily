@@ -1,0 +1,30 @@
+# Curated AI RSS feeds
+feeds:
+  - name: OpenAI Blog
+    url: https://openai.com/blog/rss
+  - name: Google AI Blog
+    url: https://blog.google/rss/
+  - name: DeepMind
+    url: https://deepmind.google/rss.xml
+  - name: Anthropic
+    url: https://www.anthropic.com/news.xml
+  - name: Meta AI
+    url: https://ai.facebook.com/blog/rss/
+  - name: Microsoft Research
+    url: https://www.microsoft.com/en-us/research/feed/
+  - name: MIT News - AI
+    url: https://news.mit.edu/topic/artificial-intelligence2-rss.xml
+  - name: Stanford HAI
+    url: https://hai.stanford.edu/news/feed
+  - name: IEEE Spectrum AI
+    url: https://spectrum.ieee.org/topic/artificial-intelligence/rss
+  - name: TechCrunch AI
+    url: https://techcrunch.com/category/artificial-intelligence/feed/
+  - name: VentureBeat AI
+    url: https://venturebeat.com/category/ai/feed/
+  - name: Wired AI
+    url: https://www.wired.com/feed/tag/ai/latest/rss
+  - name: arXiv cs.AI
+    url: https://export.arxiv.org/rss/cs.AI
+  - name: arXiv cs.LG
+    url: https://export.arxiv.org/rss/cs.LG
