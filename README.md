@@ -7,8 +7,6 @@ A minimal pipeline to:
 4) Summarize & Việt hoá 5–10 bài hot mỗi ngày
 5) Serve a small dashboard/API via FastAPI
 
-> MVP dùng **SQLite** để dễ chạy. Bạn có thể đổi sang Postgres sau.
-
 ## 0) Requiments
 - Python 3.10+
 - `pip install -r requirements.txt`
