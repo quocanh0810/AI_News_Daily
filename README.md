@@ -1,5 +1,14 @@
 # AI News MVP (RSS → Rank → VN Summary → Dashboard)
 
+Tech Stack Overview:
+
+Frontend: TailwindCSS, Vanilla JS
+Backend: FastAPI, SQLAlchemy, SQLite
+AI/NLP: OpenAI GPT / Google Gemini
+Infrastructure: Local SQLite DB + Cron job
+Automation: Bash script
+Data Sources: RSS feeds
+
 A minimal pipeline to:
 1) Fetch AI news from curated RSS feeds
 2) Extract article text
